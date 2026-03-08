@@ -1,6 +1,6 @@
 # Ifiok_builds
 
-Hi, I'm Ardorabelle 👋
+Hi, I'm Ifiok 👋
 
 Aspiring Backend & Cloud/DevOps Engineer.
 
@@ -19,3 +19,10 @@ Before transitioning back to tech, I worked as a lead video editor, managing cre
 
 Current Focus:
 Building backend projects and documenting my journey publicly.
+
+# Contact
+
+- LinkedIn: Ardorabelle Bassey [https://www.linkedin.com/in/ardorabelle-bassey-231855330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+  
+- Twitter: @ifiok_builds
+- (https://x.com/mylifeasifiok)
